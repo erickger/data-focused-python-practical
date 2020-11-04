@@ -3,7 +3,7 @@ title: Introduction to Python
 date: 2020-11-04 6:00:00 +1030
 categories: [INTRODUCTION, FOUDATIONS]
 tags: [python]
-image: /assets/img/posts/Guido_van_Rossum.jpg
+image: /x2python/assets/img/posts/Guido_van_Rossum.jpg
 ---
 
 Python is an object-oriented programming language that was created in the late 1980s in the Netherlands by Guido van Rossum. Yes! Python is not as young as you might have thought. Guido named this programming language "Python" inspired by the BBC comedy series "Monty Python". In 2003 Python started becoming popular, especially due to its readability, simplicity, and accessibility. Nowadays Python has become extensively used not only for analysis but for development. Python ranks second according to GitHub<sup>1</sup>. Being JavaScript first one in this ranking. Thus, we should say that python is the most popular programming language for analytics.
