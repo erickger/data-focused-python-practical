@@ -1,6 +1,6 @@
 ---
 title: Introduction to Python
-date: 2020-11-04 15:00:00 +0000
+date: 2020-11-04 6:00:00 +1030
 categories: [INTRODUCTION, FOUDATIONS]
 tags: [python]
 ---
