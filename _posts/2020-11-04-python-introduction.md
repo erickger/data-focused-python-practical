@@ -8,7 +8,7 @@ image: /assets/img/posts/Guido_van_Rossum.jpg.jpg
 
 Python is an object-oriented programming language that was created in the late 1980s in the Netherlands by Guido van Rossum. Yes! Python is not as young as you might have thought. Guido named this programming language "Python" inspired by the BBC comedy series "Monty Python". In 2003 Python started becoming popular, especially due to its readability, simplicity, and accessibility. Nowadays Python has become extensively used not only for analysis but for development. Python ranks second according to GitHub<sup>1</sup>. Being JavaScript first one in this ranking. Thus, we should say that python is the most popular programming language for analytics.
 
-![GitHub Ranking](/data-focused-python-practical/assets/img/posts/programming_languages_ranking_github.jpg)
+![GitHub Ranking](/x2python/assets/img/posts/programming_languages_ranking_github.jpg)
 *Source:https://madnight.github.io/githut/#/pull_requests/2020/3
 
 Let's go to what's important to us. **Why to use python?**
