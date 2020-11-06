@@ -26,7 +26,7 @@ Let's go to what's important to us.
 
 Python is a powerful tool for **analytics**, which allows for better and faster ETL<sup>2</sup> tasks. Moreover, with the vast number of libraries available, statistics and machine learning outcomes are easy to achieve with the right knowledge. 
 
-For my next posts, I will be talking about the difference between Python and other tools currently used for analytics purposes.
+For the next posts, I will be talking about the differences between Python and other programing languages that are used for analytics purposes.
 
 I wish you all can benefit from these posts, and I am looking forward to receiving your feedback. Happy coding!
 
